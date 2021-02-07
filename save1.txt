@@ -1,0 +1,29 @@
+session-1.scope                                               loaded active running   Session 1 of user ec2-user
+acpid.service                                                 loaded active running   ACPI Event Daemon
+amazon-ssm-agent.service                                      loaded active running   amazon-ssm-agent
+atd.service                                                   loaded active running   Job spooling tools
+auditd.service                                                loaded active running   Security Auditing Service
+chronyd.service                                               loaded active running   NTP client/server
+crond.service                                                 loaded active running   Command Scheduler
+dbus.service                                                  loaded active running   D-Bus System Message Bus
+getty@tty1.service                                            loaded active running   Getty on tty1
+gssproxy.service                                              loaded active running   GSSAPI Proxy Daemon
+jenkins.service                                               loaded active running   LSB: Jenkins Automation Server
+libstoragemgmt.service                                        loaded active running   libstoragemgmt plug-in server daemon
+lvm2-lvmetad.service                                          loaded active running   LVM2 metadata daemon
+network.service                                               loaded active running   LSB: Bring up/down networking
+postfix.service                                               loaded active running   Postfix Mail Transport Agent
+rngd.service                                                  loaded active running   Hardware RNG Entropy Gatherer Daemon
+rpcbind.service                                               loaded active running   RPC bind service
+rsyslog.service                                               loaded active running   System Logging Service
+serial-getty@ttyS0.service                                    loaded active running   Serial Getty on ttyS0
+sshd.service                                                  loaded active running   OpenSSH server daemon
+systemd-journald.service                                      loaded active running   Journal Service
+systemd-logind.service                                        loaded active running   Login Service
+systemd-udevd.service                                         loaded active running   udev Kernel Device Manager
+dbus.socket                                                   loaded active running   D-Bus System Message Bus Socket
+lvm2-lvmetad.socket                                           loaded active running   LVM2 metadata daemon socket
+rpcbind.socket                                                loaded active running   RPCbind Server Activation Socket
+systemd-journald.socket                                       loaded active running   Journal Socket
+systemd-udevd-control.socket                                  loaded active running   udev Control Socket
+systemd-udevd-kernel.socket                                   loaded active running   udev Kernel Socket
